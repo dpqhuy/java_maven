@@ -1,2 +1,2 @@
-# java_maven
+# spring-rest
 maven project
